@@ -3,7 +3,7 @@ Interactive analytics on the Kaggle *Superstore Dataset (Final)* (2014–2017).
 
 ## What's inside
 - 3 pages: Overview, Sales Analysis, Product Performance.
-- Star schema model + key DAX.
+- Star schema model and key DAX.
 
 ## How to view
 - Download `Superstore_Insights.pbix` and open in Power BI Desktop.
