@@ -12,7 +12,7 @@ Interactive analytics on the Kaggle *Superstore Dataset (Final)* (2014–2017).
 See [DATA_SOURCE.md](./DATA_SOURCE.md).
 
 ## Screenshots
-![Info](Screenshots/info-page.png)
+![Info](Screenshots/info.png)
 ![Overview](Screenshots/overview.png)
 ![Sales Analysis](Screenshots/sales-analysis.png)
 ![Product Performance](Screenshots/product-performance.png)
