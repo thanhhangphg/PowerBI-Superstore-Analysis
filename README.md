@@ -14,5 +14,5 @@ See [DATA_SOURCE.md](./DATA_SOURCE.md).
 ## Screenshots
 ![Info](Screenshots/info-page.png)
 ![Overview](Screenshots/overview.png)
-![Product Performance](Screenshots/product-performance.png)
 ![Sales Analysis](Screenshots/sales-analysis.png)
+![Product Performance](Screenshots/product-performance.png)
