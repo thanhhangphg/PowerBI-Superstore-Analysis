@@ -1,0 +1,18 @@
+# Superstore Power BI Dashboard
+Interactive analytics on the Kaggle *Superstore Dataset (Final)* (2014–2017).
+
+## What's inside
+- 3 pages: Overview, Sales Analysis, Product Performance.
+- Star schema model and key DAX.
+
+## How to view
+- Download `Superstore_Insights.pbix` and open in Power BI Desktop.
+
+## Data source
+See [DATA_SOURCE.md](Data/DATA_SOURCE.md).
+
+## Screenshots
+![Info](Screenshots/info.png)
+![Overview](Screenshots/overview.png)
+![Sales Analysis](Screenshots/sales_analysis.png)
+![Product Performance](Screenshots/product_performance.png)
